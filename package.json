@@ -1,0 +1,26 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Aplicacion del clima",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosHdz7/weather-app.git"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "CarlosHdz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CarlosHdz7/weather-app/issues"
+  },
+  "homepage": "https://github.com/CarlosHdz7/weather-app#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.0.0"
+  }
+}
