@@ -19,13 +19,13 @@ const main = async() => {
                 //Seleccionar el lugar
                 //Datos del clima
                 //Mostrar resultados
-                console.log("\nInformacion de la ciudad\n");
-                console.log("ciudad",);
-                console.log("Lat:",);
-                console.log("Lng:",);
-                console.log("Temperatura:",);
-                console.log("Minima:",);
-                console.log("Maxima:",);
+                // console.log("\nInformacion de la ciudad\n");
+                // console.log("ciudad",);
+                // console.log("Lat:",);
+                // console.log("Lng:",);
+                // console.log("Temperatura:",);
+                // console.log("Minima:",);
+                // console.log("Maxima:",);
 
                 break;
             
